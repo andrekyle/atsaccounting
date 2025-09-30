@@ -32,7 +32,7 @@ const Navigation = () => {
                 {item.name}
               </a>
             ))}
-            <Button variant="default" className="bg-course-primary hover:bg-course-primary/90">
+            <Button>
               Enroll Now
             </Button>
           </div>
@@ -63,7 +63,7 @@ const Navigation = () => {
                   {item.name}
                 </a>
               ))}
-              <Button variant="default" className="bg-course-primary hover:bg-course-primary/90 w-fit">
+              <Button className="w-fit">
                 Enroll Now
               </Button>
             </div>

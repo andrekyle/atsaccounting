@@ -56,8 +56,8 @@ const Footer = () => {
                   Our training support team is available to assist with course-related questions 
                   and technical support.
                 </p>
-                <Button size="sm" className="bg-white text-course-primary hover:bg-white/90 w-full">
-                  Get Support
+                <Button size="sm" className="w-full">
+                  Book Consultation
                 </Button>
               </CardContent>
             </Card>
